@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **xaydarovs/xaydarovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 working on new projects<br>learning new modern technologies and algorithms<br>java, C++, SQL, Python, Canva, microsoft offices
