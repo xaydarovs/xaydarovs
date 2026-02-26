@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Sirojiddin Khaydarov 
 # 💫 About Me:
-working on new projects<br>learning new modern technologies and algorithms<br>java, C++, SQL, Python, Canva, microsoft offices
+Working on new projects<br>Learning new modern technologies and algorithms<br>University "Central Asian University"
 
 
 ## 🌐 Socials:
