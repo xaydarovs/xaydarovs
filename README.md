@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Sirojiddin Khaydarov 
-# 💫 About Me:
+# 👨🏻‍💻 About Me:
 Working on new projects<br>Learning new modern technologies and algorithms<br>University "Central Asian University"
 
 
